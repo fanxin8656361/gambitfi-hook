@@ -1,0 +1,21 @@
+# Compiler output
+out/
+cache/
+
+# Environment
+.env
+.env.local
+
+# Foundry broadcast logs
+broadcast/
+
+# OS
+.DS_Store
+*.swp
+
+# Editor
+.vscode/
+.idea/
+
+# Claude / agent runtime
+.claude/
