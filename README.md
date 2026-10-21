@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">English</a> | <a href="README.zh.md">中文</a>
+</p>
+
 # GambitFi — every swap is a scratch ticket
 
 > A Uniswap V4 Hook submission for the [OKX X Layer **"Hook the Future"** hackathon](https://web3.okx.com/zh-hans/xlayer/build-x-hackathon/hook).
